@@ -1,0 +1,16 @@
+*{box-sizing:border-box;}
+.footer{
+    background-color: darkslategray;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    margin: 0px;
+    border-collapse: collapse;
+    width:auto;
+	padding:5px;
+}
+
+.card-img-top:hover {
+    transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  }
+
